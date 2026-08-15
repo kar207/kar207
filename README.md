@@ -31,34 +31,44 @@
 
 </div>
 
-## 🌌 Developer Identity
+## 🌌 Developer Identity & Core Overview
 
-```typescript
-const engineer: SoftwareEngineer = {
-  name: "Karthik Reddy Ramireddy",
-  title: "Full Stack Developer & Data Science Engineer",
-  location: "Hyderabad, India 📍",
-  education: {
-    degree: "B.Tech in Computer Science Engineering (Data Science)",
-    institution: "MLR Institute of Technology & Management",
-    cgpa: "7.94 / 10",
-    period: "2022 — 2026"
-  },
-  architectureFocus: [
-    "⚡ High-Performance React 19 Frontend Systems",
-    "🛒 End-to-End E-Commerce Workflows & Checkout Engines",
-    "📊 Financial & Python Analytics Pipelines",
-    "♿ Accessible, Mobile-First UI/UX (WCAG 2.1 Standard)"
-  ],
-  currentMission: "Building scalable web platforms with clean code & modern design ✨"
-};
-```
+<table width="100%">
+  <tr>
+    <td width="52%" valign="top">
+      <div align="left">
+        <h3>👨‍💻 Karthik Reddy Ramireddy</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Role-Full%20Stack%20Engineer-6366f1?style=flat-square&logo=react" alt="Role" />
+          <img src="https://img.shields.io/badge/Domain-Data%20Science-ec4899?style=flat-square&logo=python" alt="Domain" />
+        </p>
+        <p><b>📍 Location:</b> Hyderabad, India</p>
+        <p><b>🎓 Education:</b> B.Tech in CSE (Data Science) — MLRITM</p>
+        <p><b>⭐ CGPA:</b> <img src="https://img.shields.io/badge/7.94%20%2F%2010-10b981?style=flat-square" alt="CGPA" /></p>
+        <p><b>🟢 Status:</b> <b>Open for Full Stack & Frontend Engineering Roles</b></p>
+        <p><b>📫 Email:</b> <code>karthikreddy0618@gmail.com</code> | <b>📞 Phone:</b> <code>+91 8331829660</code></p>
+      </div>
+    </td>
+    <td width="48%" valign="top">
+      <div align="left">
+        <h3>🎯 Engineering Pillars</h3>
+        <ul>
+          <li>⚡ <b>React 19 Ecosystem:</b> High-performance component architecture, custom hooks & zero-layout-shift UI.</li>
+          <li>🛒 <b>E-Commerce Systems:</b> Complete storefronts, multi-step checkout, state persistence & payment flows.</li>
+          <li>📊 <b>Data Science & Python:</b> Financial market indicators, automated analytics & time-series charting.</li>
+          <li>♿ <b>WCAG 2.1 Accessibility:</b> Semantic HTML5, keyboard navigation & optimized asset delivery.</li>
+        </ul>
+      </div>
+    </td>
+  </tr>
+</table>
 
-- 🚀 **Flagship Project:** **[GENZCART](https://github.com/kar207)** — Full-featured electronics e-commerce platform with 3-step Indian checkout, state persistence, and lazy-loaded AVIF media.
-- 💡 **Core Expertise:** React 19, JavaScript (ES6+), State Management, RESTful APIs, MongoDB, and Python Data Analytics.
-- 🌱 **Currently Exploring:** Microservice Architectures, Node.js Backend Scaling, and Advanced Data Visualization.
-- 💬 **Ask Me About:** Frontend Performance, Custom React Hooks, REST API Design, and Database Modeling.
-- 📬 **Direct Contact:** `karthikreddy0618@gmail.com` | 📞 `+91 8331829660`
+<!-- Dynamic macOS Terminal Window Box -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=38BDF8&background=0D1117&center=false&vCenter=true&width=750&height=100&lines=%F0%9F%94%B4%F0%9F%9F%A1%F0%9F%9F%A2++karthik%40developer-box%3A~%24+cat+skills.json;%7B+%22core%22%3A+%5B%22React+19%22%2C+%22JavaScript+(ES6%2B)%22%2C+%22Vite%22%2C+%22MongoDB%22%5D%2C+%22data%22%3A+%5B%22Python%22%2C+%22SQL%22%2C+%22Analytics%22%5D+%7D;%F0%9F%9A%80+karthik%40developer-box%3A~%24+npm+run+build-impact;%E2%9C%94+Compiled+GENZCART+E-Commerce+App+%26+Stock+Analytics+Suite+successfully%21" alt="Developer Terminal" />
+</div>
+
+<br />
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px" alt="Divider" />
