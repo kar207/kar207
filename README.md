@@ -1,279 +1,520 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:0ea5e9&height=220&section=header&text=Karthik%20Reddy%20Ramireddy&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Python%20%7C%20Data%20Science&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Karthik Reddy Ramireddy"/>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,35:111827,68:312E81,100:0891B2&text=KARTHIK%20REDDY%20RAMIREDDY&fontColor=F8FAFC&fontSize=38&fontAlignY=36&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20REACT.JS%20%E2%80%A2%20JAVASCRIPT&descAlignY=56&descSize=17&animation=fadeIn"
+width="100%"
+alt="Karthik Reddy Ramireddy — Full Stack Developer"
+/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1100&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+clean%2C+scalable+and+user-focused+web+experiences;React+%E2%80%A2+JavaScript+%E2%80%A2+Python+%E2%80%A2+SQL+%E2%80%A2+MongoDB;Turning+ideas+into+reliable+real-world+software" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=22D3EE&center=true&vCenter=true&width=900&height=45&lines=Building+responsive+web+applications+that+feel+production-ready;React.js+%E2%80%A2+JavaScript+ES6%2B+%E2%80%A2+HTML5+%E2%80%A2+CSS3+%E2%80%A2+Vite;From+product+discovery+to+checkout+to+account+management;Accessibility+%E2%80%A2+Performance+%E2%80%A2+Responsive+UX"
+    alt="Animated developer headline"
+  />
 </a>
 
 <br/>
 
 <a href="mailto:karthikreddy0618@gmail.com">
-  <img src="https://img.shields.io/badge/Email-karthikreddy0618%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/EMAIL-karthikreddy0618%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" alt="Email"/>
 </a>
 <a href="https://linkedin.com/in/karthikreddyramireddy">
-  <img src="https://img.shields.io/badge/LinkedIn-Karthik%20Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-Karthik%20Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/kar207">
-  <img src="https://img.shields.io/badge/GitHub-kar207-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GITHUB-kar207-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Open%20to-Full%20Stack%20%26%20Software%20Engineering%20Roles-22c55e?style=flat-square" alt="Open to roles"/>
-<img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-0ea5e9?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
-<img src="https://komarev.com/ghpvc/?username=kar207&style=flat-square&color=6366f1&label=PROFILE+VIEWS" alt="Profile views"/>
-
-</div>
-
-About Me
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-I am a Computer Science Engineering (Data Science) student focused on building practical, polished and maintainable software.
-
-My work combines frontend engineering, full-stack application development and data analytics. I enjoy turning product ideas into responsive interfaces, structured application flows and data-driven experiences.
-
-Building modern applications with React, JavaScript and Vite
-
-Working with REST APIs, MongoDB, MySQL and browser storage
-
-Using Python and SQL for analytics and data-oriented projects
-
-Focused on responsive UI, accessibility, performance and maintainable code
-
-Open to Full Stack Developer, Frontend Developer and Software Engineering opportunities
-
-</td>
-<td width="40%" valign="top">
-
-name: Karthik Reddy Ramireddy
-location: Hyderabad, India
-education: B.Tech CSE - Data Science
-college: MLRITM
-graduation: 2026
-cgpa: 7.94 / 10
-focus:
-  - Full Stack Development
-  - Frontend Engineering
-  - Data Analytics
-status: Open to Opportunities
-
-</td>
-</tr>
-</table>
-
-Technical Stack
-
-<div align="center">
-
-Languages & Core Web
-
-<img src="https://skillicons.dev/icons?i=js,python,html,css&theme=dark" alt="Languages"/>
-
-Frontend
-
-<img src="https://skillicons.dev/icons?i=react,vite&theme=dark" alt="Frontend"/>
-
-Databases & Data
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="Databases"/>
-
-Developer Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,npm,postman,vscode&theme=dark" alt="Developer Tools"/>
+<img src="https://img.shields.io/badge/📍%20Hyderabad-India-06B6D4?style=flat-square&labelColor=0F172A" alt="Hyderabad, India"/>
+<img src="https://img.shields.io/badge/🎓%20B.Tech-CSE%20(Data%20Science)-8B5CF6?style=flat-square&labelColor=0F172A" alt="B.Tech CSE Data Science"/>
+<img src="https://img.shields.io/badge/⚡%20Focus-React%20%2B%20Full%20Stack-22C55E?style=flat-square&labelColor=0F172A" alt="React and Full Stack"/>
+<img src="https://komarev.com/ghpvc/?username=kar207&style=flat-square&color=0EA5E9&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 <br/>
 
-Area
-
-Skills
-
-Frontend Engineering
-
-React 19, JavaScript ES6+, HTML5, CSS3, Responsive Design, Component Architecture
-
-UI & Performance
-
-Reusable Components, Custom Hooks, Lazy Loading, Asset Optimization, Accessibility
-
-Backend & APIs
-
-REST API Integration, Authentication Flows, Error Handling, Application State
-
-Databases
-
-MongoDB, MySQL, SQL, Data Modeling
-
-Data & Analytics
-
-Python, Data Analysis, Financial Metrics, Time-Series Analysis, Visualization
-
-Tooling
-
-Git, GitHub, npm, Vite, Postman, VS Code
-
-Featured Projects
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="62%" valign="top">
 
-<h3 align="center">GENZCART</h3>
-<p align="center"><b>Modern Electronics E-Commerce Platform</b></p>
+👋 About Me
 
-<p align="center">
-<img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-<img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
-</p>
+I’m Karthik Reddy Ramireddy, a Full Stack Developer focused on building responsive, production-oriented web applications with a strong frontend foundation.
 
-A full-featured e-commerce experience designed around practical shopping flows and responsive interaction.
+I work primarily with React.js, JavaScript (ES6+), HTML5, CSS3 and Vite, and I’m comfortable shaping complete product journeys — from authentication and product discovery to cart, checkout and account management.
 
-Highlights
+My engineering priorities are simple:
 
-Product discovery with search, categories, filters and price sorting
+Build for real users, not just screenshots
 
-Wishlist and cart flows with persistent browser state
+Keep interfaces responsive across desktop, laptop, tablet and mobile
 
-Multi-step checkout with address validation and Indian payment options
+Handle empty, error and success states deliberately
 
-Customer account experience with orders, saved addresses and profile controls
+Use semantic HTML, keyboard navigation and accessible labels
 
-Semantic HTML, keyboard-friendly interactions and optimized media delivery
-
-<p align="center">
-<a href="https://github.com/kar207"><b>View Project →</b></a>
-</p>
+Treat performance, persistence and validation as product features
 
 </td>
-<td width="50%" valign="top">
+<td width="38%" valign="top">
 
-<h3 align="center">Stock Market Intelligence Dashboard</h3>
-<p align="center"><b>Interactive Financial Analytics Application</b></p>
+⚡ Developer Snapshot
 
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/Data%20Analytics-0F766E?style=flat-square" alt="Analytics"/>
-</p>
+name: Karthik Reddy Ramireddy
+role: Full Stack Developer
+location: Hyderabad, India
 
-A data-focused dashboard for exploring stock-market behavior through structured analytics and interactive visualizations.
+core:
+  - React.js
+  - JavaScript ES6+
+  - HTML5
+  - CSS3
+  - Vite
 
-Highlights
+strengths:
+  - Responsive UI
+  - Product Flows
+  - Accessibility
+  - Performance
+  - State Persistence
 
-Tracks price movement, returns, volume and market-performance trends
-
-Calculates moving averages, volatility and momentum-oriented metrics
-
-Presents historical time-series insights through interactive visualizations
-
-Uses Python and SQL for data preparation, transformation and analysis
-
-Designed with a modular structure for extending stocks, metrics and data sources
-
-<p align="center">
-<a href="https://github.com/kar207/stock-dashboard"><b>View Repository →</b></a>
-</p>
+graduation: 2026
+cgpa: 7.94 / 10
 
 </td>
 </tr>
 </table>
 
-What I Focus On
+<div align="center">
+
+⚙️ Engineering Stack
+
+<sub>Technologies and concepts I use to turn product requirements into working web experiences.</sub>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,vite,npm,git,github,vscode&theme=dark&perline=9" alt="Core technology stack"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/React.js-Component%20Architecture-61DAFB?style=for-the-badge&logo=react&logoColor=111827&labelColor=0F172A" alt="React"/>
+<img src="https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827&labelColor=0F172A" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Responsive%20UI-Mobile%20First-06B6D4?style=for-the-badge&labelColor=0F172A" alt="Responsive UI"/>
+<img src="https://img.shields.io/badge/Accessibility-WCAG%20Fundamentals-8B5CF6?style=for-the-badge&logo=w3c&logoColor=white&labelColor=0F172A" alt="Accessibility"/>
+
+</div>
+
+<br/>
 
 <table>
 <tr>
-<td width="33%" align="center" valign="top">
+<td width="50%" valign="top">
 
-Frontend Engineering
+🎨 Frontend Engineering
 
-Responsive interfaces, reusable components, predictable state and smooth user flows with React and modern JavaScript.
+React.js
+
+React Hooks
+
+Component-based architecture
+
+JavaScript (ES6+)
+
+HTML5 & CSS3
+
+Mobile-first responsive design
+
+Semantic HTML
+
+Form validation
 
 </td>
-<td width="33%" align="center" valign="top">
+<td width="50%" valign="top">
 
-Full-Stack Development
+🔌 Application Architecture
 
-Connecting interfaces with APIs, persistence, authentication flows and structured application logic.
+REST API integration
+
+Authentication flows
+
+Client-server architecture
+
+React state management
+
+localStorage / sessionStorage
+
+JSON
+
+Intl API
+
+Clear loading / empty / error / success states
 
 </td>
-<td width="33%" align="center" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Data-Driven Products
+♿ UX, Accessibility & Quality
 
-Using Python, SQL and analytical thinking to transform raw data into useful metrics, dashboards and decisions.
+Keyboard navigation
+
+Accessible labels
+
+Focus states
+
+Responsive QA
+
+Browser DevTools
+
+Production builds
+
+Performance optimization
+
+</td>
+<td width="50%" valign="top">
+
+🛠️ Developer Tooling
+
+Vite
+
+npm
+
+Git
+
+GitHub
+
+VS Code
+
+Browser DevTools
+
+AVIF / optimized media
+
+MongoDB University certification
 
 </td>
 </tr>
 </table>
 
-Education & Certification
+<div align="center">
+
+🚀 FLAGSHIP PROJECT
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:22D3EE,50:8B5CF6,100:EC4899" width="70%" alt="Project divider"/>
+
+🛒 GENZCART
+
+End-to-End Electronics E-Commerce Web Application
+
+<p>
+<img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=111827&labelColor=0F172A" alt="React 19"/>
+<img src="https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827&labelColor=0F172A" alt="JavaScript ES6+"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0F172A" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0F172A" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=0F172A" alt="Vite"/>
+<img src="https://img.shields.io/badge/Web%20Storage-State%20Persistence-22C55E?style=for-the-badge&labelColor=0F172A" alt="Web Storage"/>
+</p>
+
+</div>
+
+<br/>
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="52%" valign="top">
+
+💡 What GENZCART Solves
+
+GENZCART is built as a complete commerce journey, not a collection of disconnected UI screens.
+
+It covers the customer lifecycle from sign-in and product discovery through purchase and post-purchase account management.
+
+Authentication
+      ↓
+Product Discovery
+      ↓
+Search • Filter • Sort
+      ↓
+Product Details
+      ↓
+Wishlist • Cart
+      ↓
+3-Step Checkout
+      ↓
+Orders • Tracking
+      ↓
+Returns • Saved Addresses
+      ↓
+Payments • Coupons • Security
+
+</td>
+<td width="48%" valign="top">
+
+🧠 Engineering Highlights
+
+Responsive storefront with authentication
+
+Search, category filters and sorting
+
+Detailed product views
+
+Wishlist and cart interactions
+
+Three-step Indian checkout
+
+INR pricing
+
+Delivery-address validation
+
+PIN-code checks
+
+UPI, card and EMI options
+
+Orders and tracking
+
+Returns and replacements
+
+Saved addresses and payments
+
+Coupons and notifications
+
+Profile security
+
+</td>
+</tr>
+</table>
+
+🔥 Product Experience Breakdown
+
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
+
+🔎 Discover
+
+Search, categories, filters, sorting and consistent product-card interactions.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+🛍️ Decide
+
+Detailed product views, wishlist flows and persistent cart behavior.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+💳 Checkout
+
+Three-step flow with address validation, PIN-code checks and Indian payment options.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+📦 Manage
+
+Orders, tracking, returns, saved addresses, payments, coupons and profile controls.
+
+</td>
+</tr>
+</table>
+
+🧩 Quality Layer
+
++ Responsive layouts for desktop, laptop, tablet and mobile
++ Validated forms with intentional user feedback
++ Clear empty, error and success states
++ Semantic HTML and accessible labels
++ Keyboard focus states and navigation
++ Lazy-loaded AVIF assets
++ Browser storage for session persistence
++ Performance-focused production builds
+
+<div align="center">
+
+<a href="https://github.com/kar207">
+  <img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-View%20Projects-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" alt="Explore GitHub"/>
+</a>
+
+</div>
+
+<div align="center">
+
+🧭 How I Think About Frontend Engineering
+
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+01 — PRODUCT
+
+Start with the user journey
+
+A screen is useful only when it supports the next user action clearly.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+02 — SYSTEM
+
+Build reusable behavior
+
+Components, state and interactions should stay predictable as the product grows.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+03 — QUALITY
+
+Polish the failure paths
+
+Responsive states, validation, accessibility and errors matter as much as the happy path.
+
+</td>
+</tr>
+</table>
+
+🎯 What I Bring to a Development Team
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+⚡ Product-Oriented Execution
+
+I can translate a user flow into structured frontend screens, interactions and states rather than stopping at static UI.
+
+📱 Responsive Thinking
+
+I design for multiple viewport classes and verify layouts across desktop, laptop, tablet and mobile.
+
+</td>
+<td width="50%" valign="top">
+
+♿ Accessibility Awareness
+
+I work with semantic HTML, labels, keyboard navigation and visible focus states.
+
+🚀 Performance Mindset
+
+I pay attention to optimized assets, lazy loading, browser behavior and production build quality.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+🎓 Education
 
 Bachelor of Technology — Computer Science Engineering (Data Science)
 
 MLR Institute of Technology and Management, Hyderabad
-2022 — 2026
-CGPA: 7.94 / 10
 
-</td>
-<td width="35%" valign="top">
+<img src="https://img.shields.io/badge/2022--2026-B.Tech-0EA5E9?style=for-the-badge&labelColor=0F172A" alt="2022 to 2026"/>
+<img src="https://img.shields.io/badge/CGPA-7.94%20%2F%2010-22C55E?style=for-the-badge&labelColor=0F172A" alt="CGPA 7.94 out of 10"/>
 
-Certification
+<br/><br/>
 
-Introduction to MongoDB
-MongoDB University
+🏅 Certification
 
-Languages
+<img src="https://img.shields.io/badge/MongoDB%20University-Introduction%20to%20MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0F172A" alt="Introduction to MongoDB — MongoDB University"/>
 
-English • Telugu • Hindi
+<br/><br/>
 
-</td>
-</tr>
-</table>
+🗣️ Languages
 
-GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kar207&theme=tokyonight" alt="GitHub Stats"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kar207&theme=tokyonight" alt="Top Languages"/>
-
-<br/>
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kar207&theme=tokyonight" alt="GitHub Profile Details"/>
+<img src="https://img.shields.io/badge/English-Language-6366F1?style=flat-square&labelColor=0F172A" alt="English"/>
+<img src="https://img.shields.io/badge/Telugu-Language-EC4899?style=flat-square&labelColor=0F172A" alt="Telugu"/>
+<img src="https://img.shields.io/badge/Hindi-Language-F59E0B?style=flat-square&labelColor=0F172A" alt="Hindi"/>
 
 </div>
 
-Let's Connect
+<div align="center">
+
+📊 GitHub Command Center
+
+<sub>Live profile data — generated from my public GitHub activity.</sub>
+
+<br/><br/>
+
+<img
+width="98%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kar207&theme=tokyonight"
+alt="Karthik's GitHub profile details"
+/>
+
+<br/>
+
+<img
+width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kar207&theme=tokyonight"
+alt="Karthik's GitHub stats"
+/>
+<img
+width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kar207&theme=tokyonight"
+alt="Repositories per language"
+/>
+
+<br/>
+
+<img
+width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kar207&theme=tokyonight"
+alt="Most committed languages"
+/>
+<img
+width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kar207&theme=tokyonight&utcOffset=5.5"
+alt="Productive time"
+/>
+
+<br/><br/>
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=kar207&theme=tokyonight&hide_border=true&background=0D1117"
+alt="GitHub contribution streak"
+/>
+
+<br/><br/>
+
+<img
+width="98%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=kar207&bg_color=0D1117&color=7AA2F7&line=BB9AF7&point=7DCFFF&area=true&hide_border=true"
+alt="GitHub contribution activity graph"
+/>
+
+</div>
 
 <div align="center">
 
-I am interested in software engineering, full-stack development and frontend opportunities where I can contribute, learn quickly and build useful products.
+🤝 Let’s Build Something Useful
+
+I’m interested in opportunities where I can contribute to real web products, strengthen my full-stack engineering skills and work with teams that care about quality, usability and maintainable code.
 
 <br/>
 
 <a href="mailto:karthikreddy0618@gmail.com">
-  <img src="https://img.shields.io/badge/Let's%20Talk-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/START%20A%20CONVERSATION-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" alt="Email me"/>
 </a>
 <a href="https://linkedin.com/in/karthikreddyramireddy">
-  <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/CONNECT%20WITH%20ME-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" alt="Connect on LinkedIn"/>
+</a>
+<a href="https://github.com/kar207">
+  <img src="https://img.shields.io/badge/SEE%20THE%20CODE-GitHub-F8FAFC?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" alt="View GitHub"/>
 </a>
 
 <br/><br/>
 
-<sub>Built with attention to clean design, readable code and meaningful engineering.</sub>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:0ea5e9&height=120&section=footer" width="100%" alt="Footer"/>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:020617,35:111827,68:312E81,100:0891B2"
+width="100%"
+alt="Footer"
+/>
 
 </div>
