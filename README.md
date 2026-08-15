@@ -173,36 +173,28 @@ const developer: SoftwareEngineer = {
 
 <div align="center">
 
-  <!-- GitHub Main Stats and Top Languages -->
+  <!-- Profile Details & Language Cards -->
   <table border="0">
     <tr>
       <td>
-        <img height="185em" src="https://github-readme-stats.vercel.app/api?username=kar207&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=6366f1&icon_color=ec4899" alt="GitHub Stats" />
+        <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kar207&theme=tokyonight" alt="GitHub Profile Details" />
       </td>
       <td>
-        <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kar207&layout=compact&theme=tokyonight&hide_border=true&title_color=6366f1&langs_count=6" alt="Top Languages" />
+        <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kar207&theme=tokyonight" alt="Top Languages by Repo" />
       </td>
     </tr>
   </table>
 
   <br />
 
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kar207&theme=tokyonight&hide_border=true&stroke=6366f1&ring=ec4899&fire=ec4899" alt="GitHub Streak" width="92%" />
+  <!-- Live Commit Streak Card -->
+  <img src="https://streak-stats.demolab.com?user=kar207&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="92%" />
 
   <br /><br />
 
-  <!-- GitHub Achievement Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=kar207&theme=tokyonight&no-frame=true&no-background=true&margin-w=15" width="92%" alt="GitHub Trophies" />
+  <!-- Interactive Contribution & Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kar207&theme=tokyo-night&custom_title=Contribution%20%26%20Commit%20Activity" width="92%" alt="GitHub Activity Graph" />
 
-</div>
-
----
-
-## 🐍 Contribution Graph Animation
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kar207/kar207/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" width="100%" />
 </div>
 
 ---
@@ -231,3 +223,4 @@ const developer: SoftwareEngineer = {
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kar207&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
+
