@@ -1,16 +1,16 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30,40&height=220&section=header&text=Hi%20there,%20I'm%20Karthik%20Reddy%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Karthik Reddy Header" />
+<!-- Glowing Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24,36&height=230&section=header&text=Hi%20there,%20I'm%20Karthik%20Reddy%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Karthik Reddy Header" />
 
-<!-- Dynamic Typing Subtitle -->
+<!-- Glowing Neon Typing Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Full+Stack+Software+Engineer;React+19+%26+Modern+JavaScript+(ES6%2B)+Specialist;Data+Science+%26+Python+Analytics+Architect;Crafting+Production-Grade+Web+Applications+%E2%9C%A8;Turning+Data+%26+Logic+into+Intuitive+Experiences+%F0%9F%9A%80" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full+Stack+Software+Engineer+%E2%9C%A8;React+19+%26+Modern+JavaScript+(ES6%2B)+Specialist+%E2%9A%A1;Data+Science+%26+Python+Analytics+Architect+%F0%9F%93%8A;Building+Scalable+E-Commerce+Platforms+%F0%9F%9A%80;Crafting+Production-Grade+Web+Experiences+%F0%9F%92%BB" alt="Typing Subtitle" />
 </a>
 
 <br /><br />
 
-<!-- Interactive Status & Social Badges -->
+<!-- Glowing Status & Quick Metric Badges -->
 <p align="center">
   <a href="https://github.com/kar207">
     <img src="https://img.shields.io/github/followers/kar207?label=Followers&logo=github&style=for-the-badge&color=6366f1&labelColor=0d1117" alt="Followers" />
@@ -21,137 +21,149 @@
   <a href="mailto:karthikreddy0618@gmail.com">
     <img src="https://img.shields.io/badge/Status-Open%20To%20Opportunities-10b981?style=for-the-badge&labelColor=0d1117" alt="Status" />
   </a>
-  <a href="https://linkedin.com/in/karthikreddyramireddy" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
+  <a href="https://maps.google.com/?q=Hyderabad,+India" target="_blank">
+    <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-06b6d4?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117" alt="Location" />
   </a>
 </p>
 
----
+<!-- Glowing Divider Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px" alt="Divider" />
 
 </div>
 
-## 🌌 About Me
+## 🌌 Developer Identity
 
 ```typescript
-const developer: SoftwareEngineer = {
+const engineer: SoftwareEngineer = {
   name: "Karthik Reddy Ramireddy",
-  role: "Full Stack Engineer & Data Science Specialist",
+  title: "Full Stack Developer & Data Science Engineer",
   location: "Hyderabad, India 📍",
   education: {
     degree: "B.Tech in Computer Science Engineering (Data Science)",
     institution: "MLR Institute of Technology & Management",
     cgpa: "7.94 / 10",
-    timeline: "2022 — 2026"
+    period: "2022 — 2026"
   },
-  passions: [
-    "High-Performance Frontend Systems",
-    "Scalable E-Commerce Architectures",
-    "Data-Driven Problem Solving",
-    "UI/UX Accessibility (WCAG 2.1)"
+  architectureFocus: [
+    "⚡ High-Performance React 19 Frontend Systems",
+    "🛒 End-to-End E-Commerce Workflows & Checkout Engines",
+    "📊 Financial & Python Analytics Pipelines",
+    "♿ Accessible, Mobile-First UI/UX (WCAG 2.1 Standard)"
   ],
-  currentFocus: "Architecting enterprise-grade React 19 apps & microservices"
+  currentMission: "Building scalable web platforms with clean code & modern design ✨"
 };
 ```
 
-- 🔭 **Current Flagship:** Building **[GENZCART](https://github.com/kar207)** — A production-grade electronics e-commerce ecosystem.
-- ⚡ **Technical Edge:** Deep expertise in React 19, JavaScript (ES6+), State Management, REST APIs, and MongoDB database architecture.
-- 🌱 **Continuous Learning:** Exploring distributed systems, Node.js microservices, and AI-driven data pipelines.
-- 💬 **Ask Me About:** React Hooks, Performance Tuning, Component Design Systems, RESTful APIs, and Python Analytics.
-- 📬 **Get In Touch:** `karthikreddy0618@gmail.com` | 📞 `+91 8331829660`
+- 🚀 **Flagship Project:** **[GENZCART](https://github.com/kar207)** — Full-featured electronics e-commerce platform with 3-step Indian checkout, state persistence, and lazy-loaded AVIF media.
+- 💡 **Core Expertise:** React 19, JavaScript (ES6+), State Management, RESTful APIs, MongoDB, and Python Data Analytics.
+- 🌱 **Currently Exploring:** Microservice Architectures, Node.js Backend Scaling, and Advanced Data Visualization.
+- 💬 **Ask Me About:** Frontend Performance, Custom React Hooks, REST API Design, and Database Modeling.
+- 📬 **Direct Contact:** `karthikreddy0618@gmail.com` | 📞 `+91 8331829660`
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px" alt="Divider" />
+</div>
 
-## 🛠️ Technical Arsenal & Skills Matrix
+## 🛠️ Technical Stack & Ecosystem
 
 <div align="center">
 
-### 🎨 Frontend & UI Engineering
+<!-- Interactive Glowing 3D Tech Stack Icons -->
 <p align="center">
-  <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React 19" />
-  <img src="https://img.shields.io/badge/JavaScript_(ES6+)-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Vite-20232A?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite" />
-  <img src="https://img.shields.io/badge/Accessibility_(WCAG)-20232A?style=for-the-badge&logo=w3c&logoColor=005A9C" alt="WCAG" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,vite,python,mongodb,mysql,git,github,npm,postman,vscode&theme=dark" alt="Tech Stack Icons" />
+  </a>
+</p>
+
+### 🎨 Frontend & UI Architecture
+<p align="center">
+  <img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0d1117" alt="React 19" />
+  <img src="https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=0d1117" alt="Vite" />
+  <img src="https://img.shields.io/badge/Accessibility_(WCAG)-005A9C?style=for-the-badge&logo=w3c&logoColor=white&labelColor=0d1117" alt="WCAG" />
 </p>
 
 ### ⚙️ Backend, APIs & Databases
 <p align="center">
-  <img src="https://img.shields.io/badge/REST_APIs-20232A?style=for-the-badge&logo=fastapi&logoColor=009688" alt="REST API" />
-  <img src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL_/_SQL-20232A?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Web_Storage_(Local/Session)-20232A?style=for-the-badge&logo=redis&logoColor=DC382D" alt="Storage" />
+  <img src="https://img.shields.io/badge/REST_APIs-0055DA?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0d1117" alt="REST API" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0d1117" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL_/_SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Web_Storage_(Local/Session)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117" alt="Storage" />
 </p>
 
 ### 📊 Data Science & Analytics
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/Data_Analysis-20232A?style=for-the-badge&logo=pandas&logoColor=150458" alt="Data Analysis" />
-  <img src="https://img.shields.io/badge/Financial_Analytics-20232A?style=for-the-badge&logo=plotly&logoColor=3F4F75" alt="Analytics" />
-</p>
-
-### 🧰 Workflow, Quality & Tooling
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm&logoColor=CB3837" alt="npm" />
-  <img src="https://img.shields.io/badge/Chrome_DevTools-20232A?style=for-the-badge&logo=googlechrome&logoColor=4285F4" alt="DevTools" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" alt="Python" />
+  <img src="https://img.shields.io/badge/Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0d1117" alt="Data Analysis" />
+  <img src="https://img.shields.io/badge/Financial_Analytics-3F4F75?style=for-the-badge&logo=plotly&logoColor=white&labelColor=0d1117" alt="Analytics" />
 </p>
 
 </div>
 
 <br />
 
-| Domain | Key Capabilities |
+| Category | Technical Mastery |
 | :--- | :--- |
-| **Frontend Architecture** | Component modularity, custom hooks, dynamic routing, state lifecycle, mobile-first design |
-| **Performance & QA** | Asset optimization (AVIF/WebP), lazy-loading, clean DOM tree, cross-browser validation |
-| **Data & State Management** | Browser storage persistence (`localStorage`/`sessionStorage`), JSON parsing, Intl API |
-| **Backend & Integration** | Asynchronous API handlers, token authentication patterns, error boundaries, MongoDB schemas |
-| **Data Science & ML** | Python scripting, data wrangling, financial time-series visualization, statistical analysis |
+| **Frontend Engineering** | React 19, Custom Hooks, Component Reusability, Responsive Design, State Lifecycle |
+| **Performance Tuning** | Asset Optimization (AVIF/WebP), Code Splitting, Lazy Loading, Zero-Layout-Shift UX |
+| **State & Persistence** | Browser Storage (`localStorage`/`sessionStorage`), JSON Serialization, Intl API |
+| **API & Architecture** | REST API Handlers, Token Authentication, Error Boundaries, MongoDB Data Models |
+| **Data & Analytics** | Python Data Manipulation, SQL Queries, Financial Dashboards, Market Metrics |
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px" alt="Divider" />
+</div>
 
 ## 🚀 Featured Engineering Projects
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🛍️ GENZCART</h3>
-      <p align="center"><b>Production-Grade Electronics E-Commerce Platform</b></p>
-      <p align="center">
-        <code>React 19</code> <code>JavaScript</code> <code>Vite</code> <code>CSS3</code> <code>Web Storage</code>
-      </p>
+      <div align="center">
+        <h3>🛍️ GENZCART</h3>
+        <p><b>Production Electronics E-Commerce Platform</b></p>
+        <img src="https://img.shields.io/badge/Status-🟢%20Production%20Ready-10b981?style=flat-square" alt="Live Status" />
+        <br /><br />
+        <code>React 19</code> <code>JavaScript (ES6+)</code> <code>Vite</code> <code>CSS3</code> <code>Web Storage</code>
+      </div>
+      <br />
       <ul>
         <li><b>Storefront Ecosystem:</b> Authentication, dynamic search, multi-category filters, price sorting, wishlist, and cart.</li>
-        <li><b>Indian Checkout Flow:</b> 3-step checkout with address verification, PIN-code check, UPI, Card, and EMI gateways.</li>
-        <li><b>Account Portal:</b> Live order tracking, returns/replacements, saved addresses, and profile security.</li>
-        <li><b>Accessibility:</b> WCAG-compliant keyboard focus navigation, semantic HTML, and lazy-loaded AVIF media.</li>
+        <li><b>3-Step Indian Checkout:</b> INR pricing, delivery-address validation, PIN-code check, UPI, Card, and EMI gateways.</li>
+        <li><b>Customer Account Hub:</b> Live order tracking, returns/replacements, saved addresses, and profile security.</li>
+        <li><b>Accessibility:</b> WCAG-compliant keyboard navigation, semantic HTML, and lazy-loaded AVIF media.</li>
       </ul>
-      <p align="center">
-        <a href="https://github.com/kar207"><b>View Repository ➔</b></a>
-      </p>
+      <div align="center">
+        <a href="https://github.com/kar207"><b>Explore Repository ➔</b></a>
+      </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📈 Stock Analytics Dashboard</h3>
-      <p align="center"><b>Real-Time Financial & Market Analysis Suite</b></p>
-      <p align="center">
-        <code>Python</code> <code>Data Visualization</code> <code>Financial APIs</code> <code>Git</code>
-      </p>
+      <div align="center">
+        <h3>📈 Stock Analytics Dashboard</h3>
+        <p><b>Real-Time Financial & Market Analysis Suite</b></p>
+        <img src="https://img.shields.io/badge/Status-🚀%20Active%20Tool-6366f1?style=flat-square" alt="Active Status" />
+        <br /><br />
+        <code>Python</code> <code>Financial Analytics</code> <code>Data Visualization</code> <code>Git</code>
+      </div>
+      <br />
       <ul>
         <li><b>Market Intelligence:</b> Tracks live stock performance, price variations, and volume fluctuations.</li>
         <li><b>Interactive Charts:</b> Technical indicators, moving averages, and historical time-series analytics.</li>
         <li><b>Data Insights:</b> Automated metrics calculation for evaluating risk and stock trend momentum.</li>
         <li><b>Modular Codebase:</b> Clean, extensible architecture for easy data source expansion.</li>
       </ul>
-      <p align="center">
-        <a href="https://github.com/kar207/stock-dashboard"><b>View Repository ➔</b></a>
-      </p>
+      <div align="center">
+        <a href="https://github.com/kar207/stock-dashboard"><b>Explore Repository ➔</b></a>
+      </div>
     </td>
   </tr>
 </table>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px" alt="Divider" />
+</div>
 
 ## 🎓 Education & Certifications
 
@@ -167,37 +179,39 @@ const developer: SoftwareEngineer = {
    • English (Fluent) • Telugu (Native) • Hindi (Fluent)
 ```
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px" alt="Divider" />
+</div>
 
 ## 📊 Live GitHub Analytics
 
 <div align="center">
 
-  <!-- Profile Details & Language Cards -->
+  <!-- 2x2 Grid of 100% Verified Profile Summary Cards in Tokyo Night Theme -->
   <table border="0">
     <tr>
       <td>
-        <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kar207&theme=tokyonight" alt="GitHub Profile Details" />
+        <img width="380em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kar207&theme=tokyonight" alt="GitHub Profile Details" />
       </td>
       <td>
-        <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kar207&theme=tokyonight" alt="Top Languages by Repo" />
+        <img width="380em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kar207&theme=tokyonight" alt="Top Languages by Repo" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img width="380em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kar207&theme=tokyonight" alt="Overall GitHub Stats" />
+      </td>
+      <td>
+        <img width="380em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kar207&theme=tokyonight" alt="Productive Time Activity" />
       </td>
     </tr>
   </table>
 
-  <br />
-
-  <!-- Live Commit Streak Card -->
-  <img src="https://streak-stats.demolab.com?user=kar207&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="92%" />
-
-  <br /><br />
-
-  <!-- Interactive Contribution & Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kar207&theme=tokyo-night&custom_title=Contribution%20%26%20Commit%20Activity" width="92%" alt="GitHub Activity Graph" />
-
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px" alt="Divider" />
+</div>
 
 ## 🌐 Connect With Me
 
@@ -223,4 +237,5 @@ const developer: SoftwareEngineer = {
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kar207&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
+
 
