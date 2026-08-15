@@ -223,38 +223,25 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px" alt="Divider" />
 </div>
 
-## 🌐 Connect & Network
+## 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
+  <a href="https://linkedin.com/in/karthikreddyramireddy" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="38" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/kar207" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="38" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:karthikreddy0618@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="38" alt="Gmail" />
+  </a>
+</p>
 
-<!-- Modern Glowing Gradient Action Buttons with Hover Effects -->
-<table border="0" align="center">
-  <tr>
-    <td align="center" style="padding: 6px;">
-      <a href="https://linkedin.com/in/karthikreddyramireddy" target="_blank">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:00D2FF&height=50&width=210&text=Connect%20on%20LinkedIn%20%E2%9E%94&fontSize=16&fontColor=ffffff&fontAlignY=58" alt="LinkedIn Button" />
-      </a>
-    </td>
-    <td align="center" style="padding: 6px;">
-      <a href="https://github.com/kar207" target="_blank">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:EC4899&height=50&width=210&text=Follow%20on%20GitHub%20%E2%9E%94&fontSize=16&fontColor=ffffff&fontAlignY=58" alt="GitHub Button" />
-      </a>
-    </td>
-    <td align="center" style="padding: 6px;">
-      <a href="mailto:karthikreddy0618@gmail.com">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EA4335,100:FF6B6B&height=50&width=210&text=Send%20an%20Email%20%E2%9E%94&fontSize=16&fontColor=ffffff&fontAlignY=58" alt="Email Button" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<!-- Sleek Cyberpunk Profile View Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kar207&style=flat-square&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
-</div>
 
 
