@@ -177,6 +177,18 @@
 
 ## 🎓 Education & Certifications
 
+```
+🎓 Bachelor of Technology — Computer Science Engineering (Data Science)
+   🏛️ MLR Institute of Technology and Management, Hyderabad
+   📅 2022 — 2026 | ⭐ CGPA: 7.94 / 10
+
+📜 Professional Certifications:
+   • Introduction to MongoDB — MongoDB University
+
+🗣️ Spoken Languages:
+   • English (Fluent) • Telugu (Native) • Hindi (Fluent)
+```
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px" alt="Divider" />
 </div>
@@ -244,7 +256,5 @@
 </p>
 
 </div>
-
-
 
 
