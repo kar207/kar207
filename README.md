@@ -223,29 +223,45 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px" alt="Divider" />
 </div>
 
-## 🌐 Connect With Me
+## 🌐 Connect & Network
 
 <div align="center">
 
+<!-- Modern 3D Glowing Social Pill Buttons -->
+<p align="center">
   <a href="https://linkedin.com/in/karthikreddyramireddy" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/kar207" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:karthikreddy0618@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="50" alt="Gmail" />
+  </a>
+</p>
+
+<!-- Glowing Dual-Tone Pill Badges -->
+<p align="center">
+  <a href="https://linkedin.com/in/karthikreddyramireddy" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn Badge" />
   </a>
   <a href="https://github.com/kar207" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow_@kar207-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub Badge" />
   </a>
   <a href="mailto:karthikreddy0618@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-Send_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail Badge" />
   </a>
-  <a href="https://maps.google.com/?q=Hyderabad,+India" target="_blank">
-    <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-34A853?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Hyderabad" />
-  </a>
-
-</div>
+</p>
 
 <br />
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kar207&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views" />
+<!-- Sleek Cyberpunk Profile View Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kar207&style=flat-square&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
 </div>
 
 
